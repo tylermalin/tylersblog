@@ -7,17 +7,17 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `Tyler Malin | Insights, Rants, Theories and Interests`,
+    author: `Tyler Malin`,
+    description: `I'm Tyler, I am a dad, a startup founder and generally enthusiastic about technology, human potential, quantified self, machine learning, health and nutrition, surfing, music, art and film`,
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
+        url: `https://twitter.com/tylermalin`,
       },
       {
         name: `github`,
-        url: `https://github.com/gatsbyjs`,
+        url: `https://github.com/tylermalin`,
       },
     ],
   },
